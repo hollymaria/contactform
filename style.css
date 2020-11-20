@@ -73,6 +73,7 @@ ul{
 	margin: -7rem 2rem 5rem 2rem;
 	box-shadow: 0 0 5px 0 rgb(46, 43, 43, 0.657);
 	border-radius: 5px;
+	float: bottom;
 }
 
 /* Form Info */
